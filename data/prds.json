@@ -133,4 +133,107 @@
 该产品可广泛应用于金融、公安、部队、电信、交通、电力、教育、水利等领域的安全防范。"
   },
 
+
+
+  
+  {
+    "category":"终端产品",
+    "type":"网络摄像机",
+    "name": "IPD3102",
+    "subTitle": "IPD3102高清红外智能型",
+    "imgURL": "i/mgrplateform/IPD3102.png",
+    "link":"http://www.fhzz.com.cn/html/2014/0111/54.shtml",
+    "description":"IPD3102采用200万像素逐行扫描传感器，先进的High Profile5.0级H.264编码技术,提供优异的广播级的视频质量，支持1080P/720P/D1等分辨率，支持主、辅双码流，内置精密电机，支持水平360度无限旋转，支持18倍光学变焦，高效低功耗红外阵列，最大照射距离100米，支持嵌入式web管理，支持ONVIF和GB/T 28181标准。"
+  },
+  {
+    "category":"终端产品",
+    "type":"网络摄像机",
+    "name": "IPD3002",
+    "subTitle": "IPD3002高清智能型",
+    "imgURL": "i/mgrplateform/IPD3002.png",
+    "link":"http://www.fhzz.com.cn/html/2014/0111/59.shtml",
+    "description":"IPD3002采用200万像素逐行扫描传感器，先进的High Profile 5.0级编码技术,提供优异的广播级的视频质量，支持1080P/720P/D1等分辨率，支持主、辅双码流，内置精密电机，支持水平360度无限旋转，支持18倍光学变焦，支持嵌入式web管理，支持ONVIF和GB/T 28181标准。"
+  },
+  {
+    "category":"终端产品",
+    "type":"网络摄像机",
+    "name": "IPD3112",
+    "subTitle": "IPD3112高清红外型",
+    "imgURL": "i/mgrplateform/IPD3112.png",
+    "link":"http://www.fhzz.com.cn/html/2014/0111/69.shtml",
+    "description":"IPD3112采用200万像素逐行扫描传感器，先进的H.264编码技术，提供优异的视频质量，最高分辨率可达 1920×1080，支持电动变焦功能，支持主、辅双码流，支持嵌入式web管理，支持ONVIF和GB/T 28181标准。适用于金融、电 信、政府、学校、机场、工厂、酒店、博物馆、交通监控等要求高清画质且防暴的室内场所。"
+  },
+  {
+    "category":"终端产品",
+    "type":"网络摄像机",
+    "name": "IPD3012",
+    "subTitle": "IPD3012高清型",
+    "imgURL": "i/mgrplateform/IPD3012.png",
+    "link":"http://www.fhzz.com.cn/html/2014/0111/72.shtml",
+    "description":"IPD3012采用200万像素逐行扫描CMOS传感器，先进的H.264编码技术,提供优异的视频质量，最高分辨率可达 1920×1080，支持主、辅双码流，支持嵌入式web管理，支持ONVIF、PSIA、CGI标准。适用于金融、电信、政府、学校、机场、 工厂、酒店、博物馆、交通监控等要求高清画质且防暴的室内场所。"
+  },
+  {
+    "category":"终端产品",
+    "type":"网络摄像机",
+    "name": "IPC3103",
+    "subTitle": "IPC3103高清红外型",
+    "imgURL": "i/mgrplateform/IPC3103.png",
+    "link":"http://www.fhzz.com.cn/html/2014/0111/81.shtml",
+    "description":"IPC3103采用300万像素逐行扫描传感器，先进的High Profile5.0级H.264编码技术,提供优异的广播级的视频质量， 支持2048*1536/1080P/720P/D1分辨率，支持主、辅双码流，支持嵌入式web管理，支持ONVIF和GB/T 28181标准。"
+  },
+  {
+    "category":"终端产品",
+    "type":"网络摄像机",
+    "name": "IPC3003",
+    "subTitle": "IPC3003高清型",
+    "imgURL": "i/mgrplateform/IPC3003.png",
+    "link":"http://www.fhzz.com.cn/html/2014/0111/85.shtml",
+    "description":"IPC3003采用300万像素逐行扫描传感器，先进的High Profile5.0级H.264编码技术,提供优异的广播级的视频质量，支 持2048 (H)×1536 (V)/1080P/720P /D1等分辨率，支持主、辅双码流，支持嵌入式web管理，支持ONVIF和GB/T 28181标准。"
+  },
+  {
+    "category":"终端产品",
+    "type":"智能交通卡口",
+    "name": "IPC3502",
+    "subTitle": "IPC3502高清型",
+    "imgURL": "i/mgrplateform/IPC3502.png",
+    "link":"http://www.fhzz.com.cn/prohtml/2014/0112/107.shtml",
+    "description":"IPC3502采用2/3英寸CCD传感器,有效像素200万,支持多种触发抓拍方式,内置电警功能,支持图片输出和高 清视频双码流输出,采用先进的H.264视频编码技术。适用于闯红灯记录系统,公路车辆智能监测记录系统。"
+  },
+  {
+    "category":"终端产品",
+    "type":"网络视频编码器",
+    "name": "PVB100",
+    "subTitle": "PVB100便携式无线遥视箱",
+    "imgURL": "i/mgrplateform/PVB100.png",
+    "link":"http://www.fhzz.com.cn/prohtml/2012/1110/27.shtml",
+    "description":"便携式无线遥视箱是结合目前的视频监控原理与语音对讲功能，通过有线和无线(WiFi、3G：WCDMA和EVDO)网络进行音视频数据传输，同时还具有GPS定位功能。结合现场管理需求加入指纹、二代身份证识别和一维条形码扫描功能对目标人员以及施工器具进行管理。"
+  },
+  {
+    "category":"终端产品",
+    "type":"网络视频编码器",
+    "name": "PVS3000",
+    "subTitle": "PVS3000单兵取证系统",
+    "imgURL": "i/mgrplateform/PVS3000.png",
+    "link":"http://www.fhzz.com.cn/prohtml/2012/1110/24.shtml",
+    "description":"烽火众智PVS3000单兵取证系统采用嵌入式处理器和嵌入式Linux操作系统，H.264视频编码技术，支持3G无线网络传输，具有高可靠性和稳定性。"
+  },
+  {
+    "category":"终端产品",
+    "type":"网络视频编码器",
+    "name": "MVS3000",
+    "subTitle": "MVS3000单兵取证系统",
+    "imgURL": "i/mgrplateform/MVS3000.png",
+    "link":"http://www.fhzz.com.cn/prohtml/2012/1110/34.shtml",
+    "description":"本产品采用高性能嵌入式处理器和H.264压缩算法，将实时图像经过压缩通过网络传输或存储到硬盘中；可支持3G无线传输及以太网传输。结构采用专用防震设计，电源采用6～36伏宽电压输入设计，可长期稳定工作，适合在大巴、公交、救护车等各种车辆中安装使用。车载取证系统采用了多项具有自主知识产权的核心技术，实现了本地录像存储、3G无线网络传输、GPS卫星定位、远程指挥操控、录像标记等功能，完全满足各种行车状况下全天候执法取证工作的需求，功能全面、操作简单,可应用于警用执法、安全保卫、应急指挥等多个车载移动视频监控领域,是打造"平安社会"、建设"平安城市"强有力的工具。"
+  },
+  {
+    "category":"终端产品",
+    "type":"网络视频编码器",
+    "name": "NVS3000",
+    "subTitle": "NVS3000单兵取证系统",
+    "imgURL": "i/mgrplateform/NVS3000.png",
+    "link":"http://www.fhzz.com.cn/prohtml/2014/0111/98.shtml",
+    "description":"NVS3000-0200-1采用先进的High Profile4.0级H.264编码技术，提供优异的视频质量，支持D1/CIF/QCIF分辨率，支持语音 对讲，提供主、辅双码流，支持嵌入式web管理。产品提供2路模拟视频输入接口，一路10/100Mbps以太网接口，一路RS485接 口， 4路告警输入接口，2路告警输出接口。"
+  }
+
 ]
